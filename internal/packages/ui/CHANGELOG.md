@@ -6,7 +6,7 @@
 
 - b7ec0531: Fixed published types
 
-
+## 2.0.0
 
 ### Major Changes
 
